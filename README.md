@@ -1,4 +1,4 @@
-# 19UserDirectory
+# UserDirectory
 
 Deployed app: https://vmcgargill.github.io/19UserDirectory/
 
